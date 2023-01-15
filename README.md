@@ -2,7 +2,7 @@
 Curso de sintaxe básica em JavaScript
 
 
-
+Aula 1 - O que danado é JavaScript? script.js ✅
 
 Aula 2 - Entendendo variáveis e seus valores var, let & const ✅
 
